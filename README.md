@@ -31,7 +31,7 @@ To run this project, you will need to add your firebase project's webapp's confi
 Clone the project
 
 ```bash
-  git clone https://github.com/kulraj710/CloudSpace.git
+  git clone https://github.com/heenarana123/cloudspace___/edit/main/README.md
 ```
 
 Go to the project directory
